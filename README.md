@@ -63,3 +63,14 @@ In this project, you will create a basic HTML webpage to share your birthdate an
 Make sure to replace the birthdate with your actual birth date and location with the Actual party location
 
 
+## Running the Project
+
+To view your birthday webpage, open the index.html file in a web browser.
+
+
+## View:
+
+![Screenshot 2023-09-06 190737](https://github.com/karthickop6/Birthday-project/assets/72570119/30f6be68-f013-470f-8cad-be1334b890d4)
+
+
+
